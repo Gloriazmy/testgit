@@ -2,4 +2,8 @@ Hello Git!
 I Love Git!
 Creating a new branch is quick!
 Please believe yourself!
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick and simple.
+>>>>>>> feature1
